@@ -1,3 +1,3 @@
-Touch this link
+TO VIEW SITE
 https://e-commerce-miniproject.netlify.app 
-to view website
+
